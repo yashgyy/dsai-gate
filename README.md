@@ -15,13 +15,63 @@ Our repository is meticulously organized to cover the complete syllabus outlined
 
 To ensure a smooth and efficient learning experience, we've structured the repository with the following sections:
 
-- **Probability and Statistics**: Clear explanations, examples, and code snippets for all key concepts in Probability and Statistics.
+- [**Probability and Statistics**](#probability-and-statistics): Clear explanations, examples, and code snippets for all key concepts in Probability and Statistics.
 - **Linear Algebra**: Detailed discussions on vector spaces, matrices, eigenvalues, and more.
 - **Calculus and Optimization**: Exploring single-variable functions, limits, optimization techniques, and more.
 - **Programming and Algorithms**: Comprehensive coverage of Python programming, data structures, and algorithms.
 - **Database Management**: ER-models, relational algebra, SQL, normalization, and more.
 - **Machine Learning**: Extensive explanations and hands-on examples of supervised and unsupervised learning algorithms.
 - **AI**: In-depth discussions on search algorithms, logic, reasoning, and uncertainty.
+
+---
+## Probability and Statistics
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Topic</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Counting, Probability Axioms</td>
+    <td class="tg-yw4l">Probability fundamentals, counting methods</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Conditional Probability, Bayes Theorem</td>
+    <td class="tg-yw4l">Dependent events, Bayes theorem</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+  <!-- More rows for different topics -->
+</table>
+
+<!-- More content for other sections -->
+
+---
+
+### How to Contribute
+
+1. Choose a topic or sub-topic that interests you from the syllabus.
+2. Create comprehensive notes or resources for that topic.
+3. If your content is ready, submit a pull request or open an issue to indicate your contribution.
+4. Collaborate with the community to enhance and refine the content.
+
+For any questions or clarifications, feel free to [reach out](link_to_contact)!
+
+Join our [GitHub Discussions](link_to_discussions) for real-time interactions with fellow contributors.
+
+---
+
+Let's make DSAI preparation an enriching and collaborative journey together! 🚀
+
+Replace link_to_notes, Your Name, link_to_contact, and link_to_discussions with the actual URLs and information relevant to your repository.
+
+
+
 
 🌟 **How to Use This Repository**
 
