@@ -1,6 +1,6 @@
 # Welcome to the DSAI-GATE Repository
 
-![Data Science and Artificial Intelligence GATE SYLLABUS](https://gate2024.iisc.ac.in/wp-content/uploads/2023/08/GATE2024DataScienceAIsyllabus.pdf)
+![Data Science and Artificial Intelligence Gate Syllabus](https://gate2024.iisc.ac.in/wp-content/uploads/2023/08/GATE2024DataScienceAIsyllabus.pdf)
 
 🚀 **About the Repository**
 
