@@ -7,8 +7,6 @@
 Welcome, This repository covers GATE (Graduate Aptitude Test in Engineering) exam preparation for "Data Science and Artificial Intelligence (DSAI)"! 
 This repository is designed to collaborate and share resoucers for preparation including study materials, online courses, and code examples that cover the DSAI Gate syllabus.
 
-The DSAI-GATE repository aims to be your one-stop destination for preparing for the DSAI section of the GATE exam. Whether you're a student aspiring to excel in the field of Data Science and Artificial Intelligence or a professional looking to enhance your knowledge in these domains, this repository is here to support your journey.
-
 📚 **Syllabus Coverage**
 
 Our repository is meticulously organized to cover the complete syllabus outlined for the DSAI section of the GATE exam. From Probability and Statistics to Linear Algebra, Calculus, Programming, Data Structures and Algorithms, Database Management and Warehousing, Machine Learning, and AI, you'll find comprehensive resources that address each topic in detail. Whether you're looking for theoretical explanations, practical examples, or coding exercises, we've got you covered.
