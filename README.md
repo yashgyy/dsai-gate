@@ -43,37 +43,37 @@ To ensure a smooth and efficient learning experience, we've structured the repos
    <tr>
     <td class="tg-yw4l"><a href="#linear-algebra">Linear Algebra</td>
     <td class="tg-yw4l"> Detailed coverage on vector spaces, matrices, eigenvalues, Singular Value Decomposition(SVD) </td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l"><a href="Linear-Algebra-Readme.md">Linear-Alg</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#calculus-and-optimization">Calculus and Optimization</td>
     <td class="tg-yw4l">Exploring single-variable functions, limits, optimization techniques, and more</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l"><a href="Calculus-and-Optimization-Readme.md">Calculus-Opt</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#programming-and-algorithms">Programming and Algorithms</td>
     <td class="tg-yw4l">Comprehensive coverage of Python programming, data structures, and algorithms.</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l"><a href="Programming-and-Algorithms-Readme.md">Prog-Algo</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#database-management">Database Management</td>
     <td class="tg-yw4l">ER-models, relational algebra, SQL, normalization</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l"><a href="Database-Management-Readme.md">DBMS</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#machine-learning">Machine Learning</td>
     <td class="tg-yw4l">Extensive explanations and hands-on examples of supervised and unsupervised learning algorithms.</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l"><a href="Machine-Learning-Readme.md">ML-Notes</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
   <tr>
     <td class="tg-yw4l"><a href="#AI">Artificial Intelligence</td>
     <td class="tg-yw4l">In-depth discussions on search algorithms, logic, reasoning, and uncertainty.</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l"><a href="Artificial-Intelligence-Readme.md">AI-Notes</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
 
@@ -91,14 +91,14 @@ To ensure a smooth and efficient learning experience, we've structured the repos
 
 **Each section of notes are organised in the following format**
 
-## [Table of Contents]()
+### [Table of Contents]()
 
 * [Books](#Books)
 * [Course](#Courses)
 * [Notes](#Notes) 
 * [Articles](#Articles)
 * [Kaggle](#Kaggle)
-* [Tutorials](#Tutorials)
+* [NPTEL](#NPTEL)
 * [Practive Problems](#Practice-Problems)
 
 🤝 **Contributions**
