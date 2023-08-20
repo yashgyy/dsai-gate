@@ -445,11 +445,11 @@ Check out the complete GATE 2024 DA Exam Pattern in the table outlined below.
 ### Tasks 
 
 - [x] Public repo and Landing page
-- [ ] Example structure for contributions in topic notes
+- [x] Example structure for contributions in topic notes : (Probability-Statistics-Readme.md)
 - [ ] Coding example notebooks in colab for ML
 
 <!-- 
-- [ ] Assignee for Probability-Statistics
+- [x] Assignee for Probability-Statistics : Kunal
 - [ ] Reviewer for Probability-Statistics
 - [ ] Assignee for Linear-Algebra
 - [ ] Reviewer for Linear-Algebra
