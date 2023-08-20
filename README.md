@@ -225,4 +225,4 @@ Stay connected with us for updates, announcements, and discussions:
 
  -->
   
-Start your DSAI-GATE preparation journey today with the DSAI-GATE repository. Let's ace the GATE exam together! 🌟
+Start your DSAI-GATE preparation journey today with the DSAI-GATE repository. Let's ace the GATE exam together🌟
