@@ -1,5 +1,11 @@
 # Welcome to the DSAI-GATE Repository [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) :robot: 
 
+<!---
+Comments and Notes:
+ - Replace link_to_notes, Your Name, link_to_contact, and link_to_discussions with the actual URLs and information relevant to your repository.
+ - Validate contributors tag for each subject
+-->
+
 
 🚀 **About the Repository**
  
@@ -15,14 +21,7 @@ Our repository is meticulously organized to cover the complete syllabus outlined
 **Explore the power of open source including featured tutorials, course videos, books, articles, courses, websites, code examples in Python**.\
 ``Theoretical explanations, practical examples, or coding exercises, we've got you covered with this all-encompassing guide.``\
 ``We aim to present a one stop resource for Preparation-to-Interviews guide.`` 
-
-🌟 **How to Use This Repository**
-
-1. **Navigation**: Use the folder structure to navigate through different topics and find the resources you need.
-2. **Study Materials**: Dive into detailed explanations, examples, and theoretical content for each topic.
-3. **Code Snippets**: Explore code snippets and implementations to understand practical applications.
-4. **Practice**: Engage with coding exercises, quizzes, and practice problems to reinforce your understanding.
-
+  
 📁 **Repository Structure**
 
 To ensure a smooth and efficient learning experience, we've structured the repository with the following sections:
@@ -34,30 +33,73 @@ To ensure a smooth and efficient learning experience, we've structured the repos
     <th class="tg-yw4l"><b>Resouces</b></th>
     <th class="tg-yw4l"><b>Contributors</b></th>
   </tr>
-  
   <tr>
     <td class="tg-yw4l"><a href="#probability-and-statistics">Probability and Statistics</td>
-    <td class="tg-yw4l">Probability fundamentals, counting methods, key concepts in Probability and Statistics</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Probability fundamentals, counting methods, key concepts in hypothesis testing</td>
+    <td class="tg-yw4l"><a href="Probability-Statistics-Readme.md">Prob-Stats</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
+
    <tr>
-    <td class="tg-yw4l">Conditional Probability, Bayes Theorem</td>
-    <td class="tg-yw4l">Dependent events, Bayes theorem</td>
+    <td class="tg-yw4l"><a href="#linear-algebra">Linear Algebra</td>
+    <td class="tg-yw4l"> Detailed coverage on vector spaces, matrices, eigenvalues, Singular Value Decomposition(SVD) </td>
     <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
     <td class="tg-yw4l">Your Name</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l"><a href="#calculus-and-optimization">Calculus and Optimization</td>
+    <td class="tg-yw4l">Exploring single-variable functions, limits, optimization techniques, and more</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><a href="#programming-and-algorithms">Programming and Algorithms</td>
+    <td class="tg-yw4l">Comprehensive coverage of Python programming, data structures, and algorithms.</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><a href="#database-management">Database Management</td>
+    <td class="tg-yw4l">ER-models, relational algebra, SQL, normalization</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><a href="#machine-learning">Machine Learning</td>
+    <td class="tg-yw4l">Extensive explanations and hands-on examples of supervised and unsupervised learning algorithms.</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><a href="#AI">Artificial Intelligence</td>
+    <td class="tg-yw4l">In-depth discussions on search algorithms, logic, reasoning, and uncertainty.</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+
   <!-- More rows for different topics -->
 </table>
 
-- : .
-- [**Linear Algebra**](#linear-algebra): Detailed coverage on vector spaces, matrices, eigenvalues, and more.
-- **Calculus and Optimization**: Exploring single-variable functions, limits, optimization techniques, and more.
-- **Programming and Algorithms**: Comprehensive coverage of Python programming, data structures, and algorithms.
-- **Database Management**: ER-models, relational algebra, SQL, normalization, and more.
-- **Machine Learning**: Extensive explanations and hands-on examples of supervised and unsupervised learning algorithms.
-- **AI**: In-depth discussions on search algorithms, logic, reasoning, and uncertainty.
 
+
+🌟 **How to Use This Repository**
+
+1. **Navigation**     : Use the Repository Structure to navigate to different topics and find the resources you need in Subsection-ReadMe for example Probability-Statistics-Readme.md.
+2. **Study Materials**: In each Subsection-ReadMe dive into detailed explanations, examples, and theoretical content for each topic by opening notes.
+3. **Code Snippets**  : Explore code snippets and implementations to understand practical applications.
+4. **Practice**       : Engage with MCQ exercises, quizzes, and practice problems to reinforce your understanding inside subsections.
+
+**Each section of notes are organised in the following format**
+
+## [Table of Contents]()
+
+* [Books](#Books)
+* [Course](#Courses)
+* [Notes](#Notes) 
+* [Articles](#Articles)
+* [Kaggle](#Kaggle)
+* [Tutorials](#Tutorials)
+* [Practive Problems](#Practice-Problems)
 
 🤝 **Contributions**
 
@@ -81,9 +123,6 @@ Join our [GitHub Discussions](link_to_discussions) for real-time interactions wi
 
 Let's make DSAI preparation an enriching and collaborative journey together! 🚀
 
-Replace link_to_notes, Your Name, link_to_contact, and link_to_discussions with the actual URLs and information relevant to your repository.
-
-
 🔗 **Connect with Us**
 
 Stay connected with us for updates, announcements, and discussions:
@@ -92,27 +131,6 @@ Stay connected with us for updates, announcements, and discussions:
 - Follow us on [Twitter](link_to_twitter) for the latest news and announcements.
 
 
-## [Table of Contents]()
-
-* [Events](#Events)
-
-* [Books](#Books)
-
-* [PhD and MSc Theses](#Theses)
-
-* [Videos](#Videos) 
- 
-* [Papers](#Papers)
-
-* [Papers Time Series](#Papers_Time_Series)
-
-* [Articles](#Articles)
-
-* [Kaggle](#Kaggle)
-
-* [Tutorials](#Tutorials)
-
-* [Courses](#Courses)
 
 ---
 ## Probability and Statistics
