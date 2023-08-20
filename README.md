@@ -160,15 +160,14 @@ Stay connected with us for updates, announcements, and discussions:
 
 <tr>
 
-<td>Topic wise notebooks</td>
+<td><h3>Topic wise notebooks</h3></td>
 
-<td>Subtopics</td>
+<td><h3>Subtopics</h3></td>
 
 </tr>
 
 <tr>
-Chapter 4
-<td><h2 id="probability-and-statistics"><a href="Probability-Statistics-Readme.md">Probability and Statistics</h2></td>
+<td><h3 id="probability-and-statistics"><a href="Probability-Statistics-Readme.md">Probability and Statistics</h3></td>
 
 <td>
 
@@ -200,7 +199,7 @@ Chapter 4
 
 <tr>
 
-<td><a href="Linear-Algebra-Readme.md">Linear Algebra</td>
+<td><h3 id="linear-algebra"><a href="Linear-Algebra-Readme.md">Linear Algebra</h3></td>
 
 <td>
 
@@ -229,7 +228,7 @@ Chapter 4
 
 <tr>
 
-<td><a href="Calculus-and-Optimization-Readme.md">Calculus and Optimization</td>
+<td><h3 id="calculus-and-optimization"><a href="Calculus-and-Optimization-Readme.md">Calculus and Optimization</h3></td>
 
 <td>
 
@@ -246,7 +245,7 @@ Chapter 4
 
 <tr>
 
-<td><a href="Programming-and-Algorithms-Readme.md">Programming, Data Structures, and Algorithms</td>
+<td><h3 id="programming-and-algorithms"><a href="Programming-and-Algorithms-Readme.md">Programming, Data Structures, and Algorithms</h3></td>
 
 <td>
 
@@ -264,7 +263,7 @@ Chapter 4
 
 <tr>
 
-<td><a href="Database-Management-Readme.md">Database Management and Warehousing</td>
+<td><h3 id="database-management"><a href="Database-Management-Readme.md">Database Management and Warehousing</h3></td>
 
 <td>
 
@@ -287,7 +286,7 @@ Chapter 4
 
 <tr>
 
-<td><a href="Machine-Learning-Readme.md">Machine Learning</td>
+<td><h3 id="machine-learning"><a href="Machine-Learning-Readme.md">Machine Learning</h3></td>
 
 <td>Supervised Learning:
 
@@ -318,7 +317,7 @@ Chapter 4
 
 <tr>
 
-<td><a href="Artificial-Intelligence-Readme.md">Artificial Intelligence (AI)</td>
+<td><h3 id="artificial-intelligence"><a href="Artificial-Intelligence-Readme.md">Artificial Intelligence (AI)</h3></td>
 
 <td>
 
