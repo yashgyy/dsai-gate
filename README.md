@@ -19,8 +19,8 @@ This repository is designed to collaborate and share resoucers for preparation i
 Our repository is meticulously organized to cover the complete syllabus outlined for the DSAI section of the GATE exam. From Probability and Statistics to Math, Programming,DSA, DBMS, Machine Learning, and AI, you'll find comprehensive resources that address each topic in detail. 
 
 **Explore the power of open source including featured tutorials, course videos, books, articles, courses, websites, code examples in Python**.\
-``Theoretical explanations, practical examples, or coding exercises, we've got you covered with this all-encompassing guide.``\
-``We aim to present a one stop resource for Preparation-to-Interviews guide.`` 
+``Theoretical explanations, practice examples, or MCQ exercises, we've got you covered in this all-encompassing guide.``\
+``We aim to present a one stop resource in this Preparation-to-Interviews guide.`` 
   
 📁 **Repository Structure**
 
