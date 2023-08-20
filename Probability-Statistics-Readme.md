@@ -22,20 +22,26 @@ Credits : Joe Blitzstein [stat110](https://twitter.com/stat110) - Professor of S
 
 Explore these recommended books to enhance your understanding of Probability and Statistics:
 
-- **"Introduction to Probability"** by Joe Blitzstein and Jessica Hwang
+- [**"Introduction to Probability"**](https://ia803404.us.archive.org/6/items/introduction-to-probability-joseph-k.-blitzstein-jessica-hwang/Introduction%20to%20Probability-Joseph%20K.%20Blitzstein%2C%20Jessica%20Hwang.pdf) by Joe Blitzstein and Jessica Hwang - Stat110 course book; 
   An introductory textbook that covers a wide range of probability concepts.
-
-- **"Mathematical Statistics with Applications"** by Dennis D. Wackerly, William Mendenhall, and Richard L. Scheaffer
+  
+- [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
   A comprehensive resource for statistical theory and its applications.
 
 ---
 
 ## <a name="course"></a>NPTEL and MOOCs Courses
 
-Consider enrolling in the following online course to deepen your knowledge of Probability and Statistics:
+Course to deepen your knowledge of Probability and Statistics:
 
-- **[Coursera: Probability and Statistics Specialization](https://www.coursera.org/specializations/probability-statistics)**
-  Offered by Duke University, this specialization covers various aspects of probability and statistics with practical examples.
+- **[Probability for Computer Science, IIT Kanpur](https://nptel.ac.in/courses/106104233)**
+   by Prof. Nitin Saxena IIT K,This is a crash course to introduce the concept of probability formally; and exhibit its applications in computer science, combinatorics, and algorithms. **Excellent Assignments with MCQs**
+  
+- **[Stat110 (Probability)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)**
+   taught at Harvard University by Joe Blitzstein: Lecture videos, review materials, and over 250 practice problems with detailed solutions are provided. This course is an introduction to probability as a language and set of tools for understanding statistics, science, risk, and randomness.
+
+- **[Statistics and Probability | Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
+The course looks vast, but upon deeper inspection, it seems like a mashup of undergraduate probability, including random variables and statistics. The probability portion is very similar to the engineering mathematics syllabus of the gate; the statistics part is a bit of addition that needs to be studied and contains primarily hypothesis testing.
 
 ---
 
@@ -43,8 +49,9 @@ Consider enrolling in the following online course to deepen your knowledge of Pr
 
 Review these comprehensive notes to reinforce your grasp of Probability and Statistics:
 
-- **[Probability and Statistics Lecture Notes](link_to_notes)**
-  Detailed lecture notes covering fundamental concepts, formulas, and examples.
+- **[Probability Review](https://www.cse.iitd.ac.in/~parags/teaching/col774/review/prob.pdf)**
+  An guide that explains different types of probability distributions and covers pre-requisites for ML.
+  From COL774: Machine Learning (IIT D) by Prof. [Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html)
 
 ---
 
@@ -52,9 +59,8 @@ Review these comprehensive notes to reinforce your grasp of Probability and Stat
 
 Read insightful articles on Probability and Statistics to gain additional insights:
 
-- **[Understanding Probability Distributions](link_to_article)**
-  An article that explains different types of probability distributions with real-world examples.
-
+- **[Probability and Statistics : Geeks For Geeks](https://www.geeksforgeeks.org/probability-theory/)**
+  Detailed articles covering fundamental concepts, formulas, and examples.
 
 ---
 
@@ -62,8 +68,9 @@ Read insightful articles on Probability and Statistics to gain additional insigh
 
 Test your knowledge and skills with these practice problems:
 
-- **[Probability and Statistics Practice Problems](link_to_practice_problems)**
-  A collection of practice problems ranging from basic to advanced concepts.
+- **[Probability and Statistics Practice Problems](https://www.geeksforgeeks.org/probability-gq/)**
+  A collection of practice problems ranging from basic to advanced concepts. **Previous year Gate Questions**
+- **[Assignment Questions from NPTEL Course: MCQs](https://nptel.ac.in/courses/106104233)** 🌟 🌟 Important
 
 ---
 
