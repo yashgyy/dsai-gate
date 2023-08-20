@@ -167,8 +167,8 @@ Stay connected with us for updates, announcements, and discussions:
 </tr>
 
 <tr>
-
-<td><div class="tip" markdown="1">**Probability and Statistics**</div></td>
+Chapter 4
+<td><h2 id="probability-and-statistics"><a href="Probability-Statistics-Readme.md">Probability and Statistics</h2></td>
 
 <td>
 
