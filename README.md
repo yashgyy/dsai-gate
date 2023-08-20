@@ -1,4 +1,9 @@
-# Welcome to the DSAI-GATE Repository [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) :robot: 
+# Welcome to the DSAI-GATE Repository [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) :robot: [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/yashgyy/dsai-gate.svg?style=social&label=Watch)](https://github.com/yashgyy/dsai-gate/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/yashgyy/dsai-gate.svg?style=social&label=Fork)](https://GitHub.com/yashgyy/dsai-gate/network/)
+[![GitHub stars](https://img.shields.io/github/stars/yashgyy/dsai-gate.svg?style=social&label=Star)](https://GitHub.com/yashgyy/dsai-gate/stargazers/)
+
 
 <!---
 Comments and Notes:
@@ -14,7 +19,8 @@ This repository is designed to collaborate and share resoucers for preparation i
 
 📚 **Syllabus Coverage**
 
-**Syllabus released by GATE organizing institute:**  [Data Science and Artificial Intelligence Gate ](https://gate2024.iisc.ac.in/wp-content/uploads/2023/08/GATE2024DataScienceAIsyllabus.pdf)
+**Syllabus:**  [Data Science and Artificial Intelligence Gate ](https://gate2024.iisc.ac.in/wp-content/uploads/2023/08/GATE2024DataScienceAIsyllabus.pdf)
+(Released by GATE 2024 organizing institute: IISc)
 
 Our repository is meticulously organized to cover the complete syllabus outlined for the DSAI section of the GATE exam. From Probability and Statistics to Math, Programming,DSA, DBMS, Machine Learning, and AI, you'll find comprehensive resources that address each topic in detail. 
 
@@ -89,18 +95,18 @@ To ensure a smooth and efficient learning experience, we've structured the repos
 3. **Code Snippets**  : Explore code snippets and implementations to understand practical applications.
 4. **Practice**       : Engage with MCQ exercises, quizzes, and practice problems to reinforce your understanding inside subsections.
 
-**Each section of notes are organised in the following format**
+```
+  Each Subsection-Readme is organised in the following format:
+  [Table of Contents] 
+  * Books
+  * NPTEL and Courses
+  * Notes
+  * Articles 
+  * Programming : Examples and tutorial such as Kaggle for ML, GFG for Python and Algo
+  * Practice Problems
+  * Interview 
 
-### [Table of Contents]()
-
-* [Books](#Books)
-* [Course](#Courses)
-* [Notes](#Notes) 
-* [Articles](#Articles)
-* [Kaggle](#Kaggle)
-* [NPTEL](#NPTEL)
-* [Practive Problems](#Practice-Problems)
-
+```
 🤝 **Contributions**
 
 **A Warm Invitation to Support and Share: Star the Repo and Spread the Word**
@@ -121,7 +127,8 @@ Join our [GitHub Discussions](link_to_discussions) for real-time interactions wi
 
 ---
 
-Let's make DSAI preparation an enriching and collaborative journey together! 🚀
+Let's make DSAI preparation an enriching and collaborative journey together! 🚀 
+
 
 🔗 **Connect with Us**
 
@@ -131,6 +138,10 @@ Stay connected with us for updates, announcements, and discussions:
 - Follow us on [Twitter](link_to_twitter) for the latest news and announcements.
 
 
+<!---
+ - Add jump links structure to individual markdown readme
+ - 
+-->
 
 ---
 ## Probability and Statistics
@@ -138,9 +149,36 @@ Stay connected with us for updates, announcements, and discussions:
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Topic</b></th>
-    <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Syllabus</b></th>
+    <th class="tg-yw4l"><b</b></th>
     <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Counting, Probability Axioms</td>
+    <td class="tg-yw4l">Probability fundamentals, counting methods</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Conditional Probability, Bayes Theorem</td>
+    <td class="tg-yw4l">Dependent events, Bayes theorem</td>
+    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
+    <td class="tg-yw4l">Your Name</td>
+  </tr>
+  <!-- More rows for different topics -->
+</table>
+
+<!-- More content for other sections -->
+
+## Probability and Statistics
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Topic</b></th>
+    <th class="tg-yw4l"><b>Syllabus</b></th>
+    <th class="tg-yw4l"><b>Quick links</b></th>
+    <th class="tg-yw4l"><b></b></th>
   </tr>
   
   <tr>
@@ -162,37 +200,29 @@ Stay connected with us for updates, announcements, and discussions:
 
 ---
 
----
-## Probability and Statistics
 
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Topic</b></th>
-    <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Notes</b></th>
-    <th class="tg-yw4l"><b>Author</b></th>
-  </tr>
+
+
+### Tasks 
+
+- [x] Public repo and Landing page
+- [ ] Example structure for contributions in topic notes
+- [ ] Coding example notebooks in colab for ML
+
+<!-- 
+- [ ] Assignee for Probability-Statistics
+- [ ] Reviewer for Probability-Statistics
+- [ ] Assignee for Linear-Algebra
+- [ ] Reviewer for Linear-Algebra
+- [ ] Assignee for Programming-and-Algorithms
+- [ ] Reviewer for Programming-and-Algorithms
+- [ ] Assignee for Database-Management
+- [ ] Reviewer for Database-Management
+- [ ] Assignee for Machine-Learning
+- [ ] Reviewer for Machine-Learning
+- [ ] Assignee for Artificial-Intelligence
+- [ ] Reviewer for Artificial-Intelligence
+
+ -->
   
-  <tr>
-    <td class="tg-yw4l">Counting, Probability Axioms</td>
-    <td class="tg-yw4l">Probability fundamentals, counting methods</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
-  </tr>
-   <tr>
-    <td class="tg-yw4l">Conditional Probability, Bayes Theorem</td>
-    <td class="tg-yw4l">Dependent events, Bayes theorem</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
-  </tr>
-  <!-- More rows for different topics -->
-</table>
-
-<!-- More content for other sections -->
-
----
-
-
-
-
 Start your DSAI-GATE preparation journey today with the DSAI-GATE repository. Let's ace the GATE exam together! 🌟
