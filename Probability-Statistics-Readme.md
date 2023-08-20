@@ -2,11 +2,10 @@
 
 [Table of Contents](#table-of-contents)  
 * [Books](#books)  
-* [Course](#course)  
+* [NPTEL and MOOCs Courses](#course)  
 * [Notes](#notes)  
 * [Articles](#articles)  
-* [NPTEL](#nptel)  
-* [Practice Problems](#practice-problems)  
+* [Practice Problems](#practice-problems)
 
 
 ### The only Probability and Statistics cheatsheet that you''ll ever need
@@ -31,7 +30,7 @@ Explore these recommended books to enhance your understanding of Probability and
 
 ---
 
-## <a name="course"></a>Course
+## <a name="course"></a>NPTEL and MOOCs Courses
 
 Consider enrolling in the following online course to deepen your knowledge of Probability and Statistics:
 
@@ -56,14 +55,6 @@ Read insightful articles on Probability and Statistics to gain additional insigh
 - **[Understanding Probability Distributions](link_to_article)**
   An article that explains different types of probability distributions with real-world examples.
 
----
-
-## <a name="nptel"></a>NPTEL
-
-Explore NPTEL courses that offer in-depth understanding of Probability and Statistics:
-
-- **[NPTEL: Probability and Stochastic Processes](https://nptel.ac.in/courses/111/106/111106135/)**
-  A course focusing on probability theory, random variables, and stochastic processes.
 
 ---
 
@@ -78,9 +69,9 @@ Test your knowledge and skills with these practice problems:
 
 #### <a name="table-of-contents"></a>Table of Contents
 
-- [Books](#books)
-- [Course](#course)
-- [Notes](#notes)
-- [Articles](#articles)
-- [NPTEL](#nptel)
-- [Practice Problems](#practice-problems)
+* [Books](#books)  
+* [NPTEL and MOOCs Courses](#course)  
+* [Notes](#notes)  
+* [Articles](#articles)  
+* [Practice Problems](#practice-problems)
+
