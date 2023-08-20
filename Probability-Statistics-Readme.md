@@ -1,12 +1,12 @@
 # Probability-Statistics
 
-[Table of Contents]()  
-* [Books](#Books)  
-* [Course](#Courses)  
-* [Notes](#Notes)  
-* [Articles](#Articles)  
-* [NPTEL](#NPTEL)  
-* [Practice Problems](#Practice-Problems)  
+[Table of Contents](#table-of-contents)  
+* [Books](#books)  
+* [Course](#course)  
+* [Notes](#notes)  
+* [Articles](#articles)  
+* [NPTEL](#nptel)  
+* [Practice Problems](#practice-problems)  
 
 
 ### The only Probability and Statistics cheatsheet that you''ll ever need
