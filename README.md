@@ -317,7 +317,7 @@ Stay connected with us for updates, announcements, and discussions:
 
 <tr>
 
-<td><h3 id="artificial-intelligence"><a href="Artificial-Intelligence-Readme.md">Artificial Intelligence (AI)</h3></td>
+<td><h3 id="AI"><a href="Artificial-Intelligence-Readme.md">Artificial Intelligence (AI)</h3></td>
 
 <td>
 
