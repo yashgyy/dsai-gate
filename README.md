@@ -144,62 +144,302 @@ Stay connected with us for updates, announcements, and discussions:
 -->
 
 ---
-## Probability and Statistics
-
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Topic</b></th>
-    <th class="tg-yw4l"><b>Syllabus</b></th>
-    <th class="tg-yw4l"><b</b></th>
-    <th class="tg-yw4l"><b>Author</b></th>
-  </tr>
   
-  <tr>
-    <td class="tg-yw4l">Counting, Probability Axioms</td>
-    <td class="tg-yw4l">Probability fundamentals, counting methods</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
-  </tr>
-   <tr>
-    <td class="tg-yw4l">Conditional Probability, Bayes Theorem</td>
-    <td class="tg-yw4l">Dependent events, Bayes theorem</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
-  </tr>
-  <!-- More rows for different topics -->
+## GATE 2024 Data Science and AI Syllabus
+<div class="table-responsive">
+
+<table class="table table-bordered table-striped" cellspacing="0" cellpadding="5">
+
+<tbody>
+
+<tr>
+
+<td colspan="2" style="background-color: lightblue;">GATE 2024 Data Science and AI Syllabus</td>
+
+</tr>
+
+<tr>
+
+<td>Topic wise notebooks</td>
+
+<td>Subtopics</td>
+
+</tr>
+
+<tr>
+
+<td><a href="Probability-Statistics-Readme.md">Probability and Statistics</td>
+
+<td>
+
+*   Counting (Permutations and Combinations)
+*   Probability Axioms
+*   Sample Space
+*   Events
+*   Independent Events
+*   Mutually Exclusive Events
+*   Marginal, Conditional, and Joint Probability
+*   Bayes' Theorem
+*   Conditional Expectation and Variance
+*   Mean, Median, Mode, and Standard Deviation
+*   Correlation and Covariance
+*   Random Variables
+*   Discrete Random Variables and Probability Mass Functions (Uniform, Bernoulli, Binomial Distribution)
+*   Continuous Random Variables and Probability Distribution Functions (Uniform, Exponential, Poisson, Normal, Standard Normal, t-Distribution, Chi-Squared Distributions)
+*   Cumulative Distribution Function
+*   Conditional Probability Density Function
+*   Central Limit Theorem
+*   Confidence Interval
+*   z-Test
+*   t-Test
+*   Chi-Squared Test
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><a href="Linear-Algebra-Readme.md">Linear Algebra</td>
+
+<td>
+
+*   Vector Space
+*   Subspaces
+*   Linear Dependence and Independence of Vectors
+*   Matrices
+*   Projection Matrix
+*   Orthogonal Matrix
+*   Idempotent Matrix
+*   Partition Matrix and Their Properties
+*   Quadratic Forms
+*   Systems of Linear Equations and Solutions
+*   Gaussian Elimination
+*   Eigenvalues and Eigenvectors
+*   Determinant
+*   Rank
+*   Nullity
+*   Projections
+*   LU Decomposition
+*   Singular Value Decomposition
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><a href="Calculus-and-Optimization-Readme.md">Calculus and Optimization</td>
+
+<td>
+
+*   Functions of a Single Variable
+*   Limit
+*   Continuity and Differentiability
+*   Taylor Series
+*   Maxima and Minima
+*   Optimization Involving a Single Variable
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><a href="Programming-and-Algorithms-Readme.md">Programming, Data Structures, and Algorithms</td>
+
+<td>
+
+*   Programming in Python
+*   Basic Data Structures: Stacks, Queues, Linked Lists, Trees, and Hash Tables
+*   Search Algorithms: Linear Search and Binary Search
+*   Basic Sorting Algorithms: Selection Sort, Bubble Sort, Insertion Sort
+*   Divide and Conquer Techniques: Mergesort, Quicksort
+*   Introduction to Graph Theory
+*   Basic Graph Algorithms: Traversals and the Shortest Path
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><a href="Database-Management-Readme.md">Database Management and Warehousing</td>
+
+<td>
+
+*   ER-Model (Entity-Relationship Model)
+*   Relational Model: Relational Algebra, Tuple Calculus
+*   SQL (Structured Query Language)
+*   Integrity Constraints
+*   Normal Form
+*   File Organization
+*   Indexing
+*   Data Types
+*   Data Transformation: Normalization, Discretization, Sampling, and Compression
+*   Data Warehouse Modeling: Schema for Multidimensional Data Models
+*   Concept Hierarchies
+*   Measures: Categorization and Computations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><a href="Machine-Learning-Readme.md">Machine Learning</td>
+
+<td>Supervised Learning:
+
+*   Regression and Classification Problems
+*   Simple Linear Regression
+*   Multiple Linear Regression
+*   Ridge Regression
+*   Logistic Regression
+*   k-Nearest Neighbors
+*   Naive Bayes Classifier
+*   Linear Discriminant Analysis
+*   Support Vector Machine
+*   Decision Trees
+*   Bias-Variance Trade-off
+*   Cross-validation Methods: Leave-One-Out (LOO) Cross-validation, k-Folds Cross-validation
+*   Multi-layer Perceptron
+*   Feed-forward Neural Network
+*   Unsupervised Learning:
+*   Clustering Algorithms
+*   k-Means and k-Medoid Clustering
+*   Hierarchical Clustering
+*   Dimensionality Reduction
+*   Principal Component Analysis (PCA)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><a href="Artificial-Intelligence-Readme.md">Artificial Intelligence (AI)</td>
+
+<td>
+
+*   Search: Informed Search, Uninformed Search, Adversarial Search
+*   Logic: Propositional Logic, Predicate Logic
+*   Reasoning under Uncertainty Topics:
+*   Conditional Independence Representation
+*   Exact Inference through Variable Elimination
+*   Approximate Inference through Sampling
+
+</td>
+
+</tr>
+
+</tbody>
+
 </table>
 
-<!-- More content for other sections -->
-
-## Probability and Statistics
-
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Topic</b></th>
-    <th class="tg-yw4l"><b>Syllabus</b></th>
-    <th class="tg-yw4l"><b>Quick links</b></th>
-    <th class="tg-yw4l"><b></b></th>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Counting, Probability Axioms</td>
-    <td class="tg-yw4l">Probability fundamentals, counting methods</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
-  </tr>
-   <tr>
-    <td class="tg-yw4l">Conditional Probability, Bayes Theorem</td>
-    <td class="tg-yw4l">Dependent events, Bayes theorem</td>
-    <td class="tg-yw4l"><a href="link_to_notes">Notes</a></td>
-    <td class="tg-yw4l">Your Name</td>
-  </tr>
-  <!-- More rows for different topics -->
-</table>
 
 <!-- More content for other sections -->
 
 ---
 
+## <a name="GATE_2024_Data_3">GATE 2024 Data Science and AI Exam Pattern</a>
+
+The GATE 2024 Data Science and AI exam pattern will carry a total of 100 marks. The paper will be divided into two sections, General Aptitude and Data Science and AI Subject Questions, worth 15 and 85 marks, respectively.
+
+Check out the complete GATE 2024 DA Exam Pattern in the table outlined below.
+
+<div class="table-responsive">
+
+<table class="table table-bordered table-striped" cellspacing="0" cellpadding="5">
+
+<tbody>
+
+<tr>
+
+<td colspan="2" style="background-color: lightblue;">GATE 2024 DA Exam Pattern</td>
+
+</tr>
+
+<tr>
+
+<td>Particulars</td>
+
+<td>Details</td>
+
+</tr>
+
+<tr>
+
+<td>Paper Name</td>
+
+<td>GATE Data Science and Artificial Intelligence Paper</td>
+
+</tr>
+
+<tr>
+
+<td>Paper Code</td>
+
+<td>DA</td>
+
+</tr>
+
+<tr>
+
+<td>Exam Duration</td>
+
+<td>3 Hours</td>
+
+</tr>
+
+<tr>
+
+<td>Sections</td>
+
+<td>General Aptitude + Data Science and AI</td>
+
+</tr>
+
+<tr>
+
+<td>Type of Questions</td>
+
+<td>MCQs, MSQs, and NATS</td>
+
+</tr>
+
+<tr>
+
+<td>GATE DA Paper Marks Distribution</td>
+
+<td>
+
+*   General Aptitude: 15 Marks
+*   Data Science and AI Subject Questions: 85 Mark
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Negative Marking</td>
+
+<td>
+
+*   For a 1-mark MCQ, an incorrect answer will result in a deduction of 1/3 mark.
+*   For a 2-mark MCQ, an incorrect answer will lead to a deduction of 2/3 marks.
+*   There is no penalty for incorrect responses to MSQ or NAT questions.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+---
 
 
 
