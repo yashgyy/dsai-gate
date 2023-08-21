@@ -8,8 +8,21 @@
 <!---
 Comments and Notes:
  - Replace link_to_notes, Your Name, link_to_contact, and link_to_discussions with the actual URLs and information relevant to your repository.
- - Validate contributors tag for each subject
+ - Validate contributor's tag for each subject
 -->
+
+<!-- 21 Aug - Week Preferbly
+      ML and Optimization -Kunal
+
+      AI and probability Statics - Yash
+
+      Linear Algebra ---- dbms
+
+     How to put interactive assignments
+     Need More Reviewers (Fellow Gate???)
+     Find more People from Collabration
+     Slides .... (Preferable Standard) -->
+
 
 
 🚀 **About the Repository**
